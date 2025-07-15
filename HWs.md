@@ -11,8 +11,8 @@ const sayHelloLinting = (fName) => {console.log(`Look, how pretty it is, ${fName
 
 sayHelloLinting('Oksana');
 * После применения форматирования:  
-const sayHelloLinting = (fName) => {
-  console.log(`Look, how pretty it is, ${fName}`);
+const sayHelloLinting = (fName) => {  
+  console.log(`Look, how pretty it is, ${fName}`);  
 };
 
 sayHelloLinting("Oksana");
