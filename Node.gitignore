@@ -138,5 +138,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-# Ignore help.md file for HW 1.2.3.
+# Ignore help1.md and help2.md file for HW 1.2.3.
 help1.md
+help2.md
