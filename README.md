@@ -27,3 +27,4 @@
 Шаблоны файлов: https://github.com/github/gitignore  
 Генератор файлов: https://www.toptal.com/developers/gitignore  
 
+Должен называться строго .gitignore и быть размещен в корневой папке репозитория.  Игнорируемые файлы должны быть в него вписаны до их staging.
