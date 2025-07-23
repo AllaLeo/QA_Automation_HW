@@ -1,2 +1,1 @@
-AllaLeo  
-79helloworld@gmail.com
+info deleted
